@@ -1,12 +1,12 @@
 {
-  "name": "hellonode",
+  "name": "hellonodelib",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author":[
-    "hellonode <beijing2008lxd@hotmail.com>"
+    "beijing2008lxd <beijing2008lxd@hotmail.com>"
   ],
   "repository": {
     "type": "git",
