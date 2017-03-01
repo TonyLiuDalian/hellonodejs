@@ -1,26 +1,26 @@
 {
   "name": "hellonode",
-  "version": "1.0.0",
+  "version": "0.1.0",
+  "license": "MIT",
   "description": "this my first nodejs project",
   "main": "app.js",
   "dependencies": {
     "body-parser": "^1.16.1",
     "cookie-parser": "^1.4.3",
     "express": "^4.14.1",
-    "multer": "^1.3.0"
+    "multer": "^1.3.0",
+    "sxangularweblib": "^0.1.4"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "nodejs"
+    "hellonode"
   ],
-  "author": {
-   "name":"tony",
-   "email":"beijing2008lxd@hotmail.com" 
-  },
-  "license": "MIT",
+  "author":[
+    "beijing2008lxd <beijing2008lxd@hotmail.com>"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/TonyLiuDalian/hellonodejs.git"
